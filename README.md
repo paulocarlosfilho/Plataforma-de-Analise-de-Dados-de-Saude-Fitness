@@ -89,8 +89,9 @@ script.js: O código mais importante. Ele vai se comunicar com sua API local. Pa
 
 ## JavaScript
 
-const urlBackend = 'http://127.0.0.1:3000/sua-rota-aqui';
-// Código para enviar ou receber dados da API
+<code>const urlBackend = 'http://127.0.0.1:3000/sua-rota-aqui';</code>
+
+##  Código para enviar ou receber dados da API
 Passo 4: Testando tudo junto no seu PC
 Inicie o Backend: Abra um novo terminal (diferente do que está rodando o DynamoDB) e entre na pasta tcc-fitness. Digite o comando:
 
